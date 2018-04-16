@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: ZON Ligatus
- * Plugin URI:
+ * Plugin URI: https://github.com/ZeitOnline/zon-ligatus
  * Description: Adds ligatus content recommendation to ZON blog themes
  * Version: 0.0.1
  * Author: Thomas Puppe
